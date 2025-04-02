@@ -18,7 +18,7 @@ img{
   --white: #fff;
   --purple-: #6f00ff;
   --grey-: #333;
-  --light-purple: #ebb7ff;
+  --light-purple: #aaa5ee;
   --white-blue: #eff7ff;
 }
 body{
@@ -72,6 +72,6 @@ a{
 }
 a:hover{
   background-color: var(--purple-);
-  color: var(--black);
+  color: var(--light-purple);
   transition: 0.6s;
 }
